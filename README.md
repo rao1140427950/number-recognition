@@ -6,3 +6,11 @@ No machine learning library is needend. All neurons and networks are self made, 
 The main purpose of the project is to learn the basics of the machine learing and the structure of neurons.<br/>
 The results of the project can be seen like this:<br/>
 <br/>
+![Image Text](https://github.com/rao1140427950/number-recognition/blob/srcs/001.png)
+![Image Text](https://github.com/rao1140427950/number-recognition/blob/srcs/002.png)
+![Image Text](https://github.com/rao1140427950/number-recognition/blob/srcs/003.png)<br/>
+<br/>
+![Image Text](https://github.com/rao1140427950/number-recognition/blob/srcs/004.png)
+![Image Text](https://github.com/rao1140427950/number-recognition/blob/srcs/005.png)
+![Image Text](https://github.com/rao1140427950/number-recognition/blob/srcs/006.png)<br/>
+<br/>
